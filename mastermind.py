@@ -4,7 +4,6 @@ cont = True
 
 while cont:
 	code = gencode()
-	print code
 
 	for i in range(10):
 		guess = raw_input("Your guess: ")
